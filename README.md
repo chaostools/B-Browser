@@ -3,7 +3,8 @@
 </P>
 
 # Baby Browser
-My take at the system's WebView in 36 hours
+My take at the system's WebView ;) It's A minimal browser, like a baby coz i don't know how it works  xD.
+Just made this in past few hours for learning Android Webview
 
 ## Screen-Shots
 <p align=center>
@@ -51,8 +52,7 @@ My take at the system's WebView in 36 hours
    
  **Failed to add**
  * 😓 zoom not working :not showing the buttons , when used with collasping action bar.
- * 😓 the collapsing action of toolbar is bad on performance since nested scroll view is being used
- * 😓   on an already scrollable web view( without nested scroll view, colapsing action won't work)
+ * 😓 the collapsing action of toolbar is bad on performance since nested scroll view is being used on an already scrollable web view( without nested scroll view, colapsing action won't work)
  * 😓 Keyboard gets opened by default
  * 😡😡😡  SEARCHBAR IS FUCKING BAD: how cn i make this shit do: https://goo.gl/Zfm6K2
 
