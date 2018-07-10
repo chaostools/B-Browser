@@ -3,8 +3,7 @@
 </P>
 
 # Baby Browser
-My take at the system's WebView ;) It's A minimal browser, like a baby coz i don't know how it works  xD.
-Just made this in past few hours for learning Android Webview
+My take at the system's WebView ;) It's A minimal browser , Just made this in past 24 hours for learning Android Webview . Many features are yet to come. ^_^
 
 ## Screen-Shots
 <p align=center>
