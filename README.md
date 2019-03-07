@@ -2,7 +2,7 @@
 <img src="https://github.com/chaostools/Baby-Browser/blob/master/Snaps/app_icon.png" width="250px" height="250px">
 </P>
 
-# Baby Browser
+# B Browser
 My take at the system's WebView ;) It's A minimal browser , Just made this in past 24 hours for learning Android Webview . Many features are yet to come. ^_^
 
 ## Screen-Shots
