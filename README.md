@@ -53,7 +53,7 @@ My take at the system's WebView ;) It's A minimal browser , Just made this in pa
  * 😓 zoom not working :not showing the buttons , when used with collasping action bar.
  * 😓 the collapsing action of toolbar is bad on performance since nested scroll view is being used on an already scrollable web view( without nested scroll view, colapsing action won't work)
  * 😓 Keyboard gets opened by default
- * 😡😡😡  SEARCHBAR IS FUCKING BAD: how cn i make this shit do: https://goo.gl/Zfm6K2
+ * 😡😡😡  SEARCHBAR IS  BAD: how cn i make this  do: https://goo.gl/Zfm6K2
 
 
 
@@ -64,6 +64,6 @@ My take at the system's WebView ;) It's A minimal browser , Just made this in pa
 ### Credits
 - app icon: https://www.videoblocks.com
 - chrome icon: some site that showed on google image search [.](https://www.flaticon.com/free-icon/chrome_152759)
-- Rest all searches : thankyou internet 😜
+- Rest all searches : thankyou internet !
 
 
